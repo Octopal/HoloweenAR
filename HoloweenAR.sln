@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloweenAR", "Assembly-CSharp.csproj", "{D5BD15A0-2DD8-61E3-0EE0-DD3E721B42F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloweenAR", "Assembly-CSharp-Editor.csproj", "{8AD6EB79-92C7-1E10-ED76-947F4D434615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BD15A0-2DD8-61E3-0EE0-DD3E721B42F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BD15A0-2DD8-61E3-0EE0-DD3E721B42F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BD15A0-2DD8-61E3-0EE0-DD3E721B42F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BD15A0-2DD8-61E3-0EE0-DD3E721B42F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD6EB79-92C7-1E10-ED76-947F4D434615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD6EB79-92C7-1E10-ED76-947F4D434615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD6EB79-92C7-1E10-ED76-947F4D434615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD6EB79-92C7-1E10-ED76-947F4D434615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
